@@ -5,3 +5,4 @@ def add_item(item):
 
 def remove_item(item):
     print(f"Removing {item}")
+    print("Item removed successfully")
