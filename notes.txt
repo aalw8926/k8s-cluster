@@ -1,3 +1,5 @@
 Learning Git squash
 Practice rebasing
 Understand squash commits
+Commit 1 for squash practice
+Commit 2 for squash practice
