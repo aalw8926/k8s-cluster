@@ -1,0 +1,3 @@
+Learning Git squash
+Practice rebasing
+Understand squash commits
