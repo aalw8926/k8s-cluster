@@ -8,4 +8,5 @@ def subtract(a, b):
 
 
 def multiply(a, b):
+    print("Multiplying...")
     return a * b
